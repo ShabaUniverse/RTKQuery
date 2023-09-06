@@ -1,5 +1,5 @@
-## Redux Toolkit Query
-# Demonstation of query api
+# Redux Toolkit Query
+### Demonstation of query api
 
 # React + Vite
 
